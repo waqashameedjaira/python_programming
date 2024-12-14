@@ -1,6 +1,0 @@
-
-
-
-Conditions operators <, >, 
-
-Logical operators AND, OR , NOT
