@@ -1,0 +1,17 @@
+install anaconda
+update anaconda
+	Command	conda update conda
+		
+
+
+
+create environment by using VNEV in python
+for creating env by using VENV first we need to install python directly
+than run cmd
+	python -m venv (envname)
+for activate env
+	myenv\Scripts\activate
+to install numpy in environment
+	pip install numpy
+to check installation numpy or other
+	pip list
