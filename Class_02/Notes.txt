@@ -1,0 +1,37 @@
+shortcut of jupyter notedbook
+- ECS 1,2,3 (to convert cell create heading)
+- ESC M (Convert selectesd cellintomarkdown)
+- ESC A (create a cell above)
+- ESC B (create a cell below)
+- ESC DD (to delete any selected cell)
+- ESC Y (convert any cell into code)
+- 
+
+- SHIFT ENTER (execute the cell and goto new cell)
+- CRTL ENTER (execute but stay on that cell)
+- CRTL SHIFT H (show all commands)
+
+
+TAB is used to guess & auto complete
+printing more then one variable convert it into TUPLE (we'll cover it later)
+Jupyter Notebook automatically print last line into console
+
+in the python we have to write print to print last line.
+
+Variable name should be:
+- Name should be precise and meaningfull
+- Can't have special characters excep underscore(_)
+- number cannot be in the start of variable name
+- already reserve word by python can't be a variable name
+	i.e print = "Waqas"
+
+
+Math expressions: Familiar operators
+	"+ , - , / , *"
+
+
+Math expressions: Unfamiliar operators
+- moduel operator (%) when two numbers divide the reminder numb will show. i.e. 7/2 = 1
+- 
+
+- power(**), floor(//), reminder(%), incremental operators (+
