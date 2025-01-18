@@ -1,0 +1,5 @@
+Json file handling
+
+java script object notation
+
+is like a dictionary data type but dict is only in pyhthon but we can use json use any where

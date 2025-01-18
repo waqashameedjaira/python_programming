@@ -1,0 +1,3 @@
+writing a txt in file with w command
+this is my second line
+this is my thrid line
